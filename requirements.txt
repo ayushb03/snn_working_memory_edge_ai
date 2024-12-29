@@ -1,0 +1,6 @@
+torch
+tonic
+tensorboard
+snntorch
+matplotlib
+scikit-learn
