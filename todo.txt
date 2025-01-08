@@ -1,0 +1,2 @@
+- try running all epochs for population encoding model
+- write down all the math of the SNN model, forward and the backprop
